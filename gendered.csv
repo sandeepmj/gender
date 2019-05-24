@@ -1,8 +1,5 @@
 name,gender,probability,count
 John,male,0.99,9931
-Shobana,female,1.0,3
-Ashley,female,0.9,3897
-Ronnie,male,0.9,393
 Jane,female,0.99,1796
 Kristen,female,1.0,1160
 Matt,male,1.0,4915
